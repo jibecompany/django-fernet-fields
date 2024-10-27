@@ -1,4 +1,11 @@
 ====================
+Archived fork of django-fernet-fields
+====================
+
+This was a fork from the original repository with some fixes.
+Now we replaced this with djfernet (which is maintained) this project is archived.
+
+====================
 django-fernet-fields
 ====================
 
